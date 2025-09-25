@@ -3,7 +3,7 @@ $( function() {
   // add background image - 4th countdown to 15th birthday 10/11/2025. Set to 10/11 @10:59:59am. Started with 11th birthday on 10/11/21.
   $.backstretch('images/background-bday-silus-16th-2026.jpg');
   // date of birth: 10/11/10 10:59:59.
-  var endDate = "Oct  11, 2025 10:59:59";
+  var endDate = "Oct  11, 2026 00:59:59";
   $('.countdown.simple').countdown({ date: endDate });
   $('.countdown.styled').countdown({
     date: endDate,
